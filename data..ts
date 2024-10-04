@@ -86,7 +86,7 @@ export const projects: IProject[] = [
   {
     id: 1,
     name: "Eco-Mart",
-    image_path: "/ecoMart.PNG",
+    image_path: "/ecoMart.png",
     deployed_url: "http://eco-mart.onrender.com/",
     github_url: "https://github.com/Henok-Al/eco-mart",
     category: ["Node"],
@@ -96,7 +96,7 @@ export const projects: IProject[] = [
   {
     id: 2,
     name: "Social Network and Job Portal",
-    image_path: "/jobPortal.PNG",
+    image_path: "/jobPortal.png",
     deployed_url: "https://habesha-net.onrender.com/",
     github_url: "https://github.com/Henok-Al/eco-mart",
     category: ["Fullstack"],
@@ -106,7 +106,7 @@ export const projects: IProject[] = [
   {
     id: 3,
     name: "ATC UI/UX Design",
-    image_path: "/figma.PNG",
+    image_path: "/figma.png",
     deployed_url:
       "https://www.figma.com/proto/uzB9AJSHSXOFcLCo5ft55B/Abeni-Henok?node-id=502-1296&node-type=frame&t=wjXVUgKN0I88aPuH-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=502%3A1296",
     github_url: "",
@@ -117,7 +117,7 @@ export const projects: IProject[] = [
   {
     id: 4,
     name: "AddisBlog",
-    image_path: "/addis.PNG",
+    image_path: "/addis.png",
     deployed_url:
       "https://addis-blog-rlb1-4c0poyx08-henokals-projects.vercel.app/",
     github_url: "https://github.com/Henok-Al/AddisBlog.git",
@@ -129,7 +129,7 @@ export const projects: IProject[] = [
   {
     id: 5,
     name: "React CRUD app",
-    image_path: "/crud.PNG",
+    image_path: "/crud.png",
     deployed_url: "https://abyssiniablog-4a499.web.app/",
     github_url: "https://github.com/Henok-Al/abyssinia-blog.git",
     category: ["next"],
@@ -139,7 +139,7 @@ export const projects: IProject[] = [
   {
     id: 6,
     name: "Write It",
-    image_path: "/writeIt.PNG",
+    image_path: "/writeIt.png",
     deployed_url: "react-firebase-tailwind-seven.vercel.app",
     github_url: "https://github.com/Henok-Al/write-it.git",
     category: ["react"],
@@ -149,7 +149,7 @@ export const projects: IProject[] = [
   {
     id: 6,
     name: "Blogger",
-    image_path: "/reactBlog.PNG",
+    image_path: "/reactBlog.png",
     deployed_url: "https://react-firebase-blog-app-595df.web.app/",
     github_url: "https://github.com/Henok-Al/Blog-App",
     category: ["HTML&CSS"],
