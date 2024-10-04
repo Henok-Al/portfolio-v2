@@ -24,8 +24,9 @@ const config: Config = {
       },
       colors: {
         green: {
-          DEFAULT: "#00f260",
+          DEFAULT: "#d4ebdd",
         },
+
         dark: {
           DEFAULT: "#010101",
           100: "#0a0b0e",

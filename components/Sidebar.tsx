@@ -27,7 +27,7 @@ const Sidebar = () => {
         <span className="text-blue-500">Henok</span> Gebresenbet
       </h3>
       <p
-        className="px-2 py-1 my-3 bg-gray-200 dark:bg-dark-200
+        className="px-2 py-1 my-3  bg-gray-200 dark:bg-dark-200
        rounded-full"
       >
         Fullstack Developer
