@@ -20,7 +20,8 @@ export const services: Service[] = [
   {
     Icon: AiOutlineApi,
     title: "API Development",
-    about: " I can develop robust REST API using <b> </b> and <b> FastAPI</b>",
+    about:
+      " I can develop robust REST API using <b> </b> and <b> Expressjs</b>",
   },
   {
     Icon: MdDeveloperMode,
@@ -88,14 +89,14 @@ export const projects: IProject[] = [
     image_path: "/ecoMart.PNG",
     deployed_url: "http://eco-mart.onrender.com/",
     github_url: "https://github.com/Henok-Al/eco-mart",
-    category: ["Fullstack"],
+    category: ["Node"],
     description: "Ecom-Mart is feature rich ecommerse platform ",
     key_techs: ["react", "Tailwind"],
   },
   {
     id: 2,
     name: "Social Network and Job Portal",
-    image_path: "/jobPorttal.PNG",
+    image_path: "/jobPortal.PNG",
     deployed_url: "https://habesha-net.onrender.com/",
     github_url: "https://github.com/Henok-Al/eco-mart",
     category: ["Fullstack"],
@@ -109,7 +110,7 @@ export const projects: IProject[] = [
     deployed_url:
       "https://www.figma.com/proto/uzB9AJSHSXOFcLCo5ft55B/Abeni-Henok?node-id=502-1296&node-type=frame&t=wjXVUgKN0I88aPuH-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=502%3A1296",
     github_url: "",
-    category: ["next"],
+    category: ["Figma"],
     description: "Stunning UI/UX design using Figma",
     key_techs: ["Figma"],
   },

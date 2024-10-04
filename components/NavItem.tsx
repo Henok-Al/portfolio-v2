@@ -11,21 +11,11 @@ const NavItem = ({ activeItem, setActiveItem, name }: Props) => {
   return activeItem !== name ? (
     <span
       onClick={() => setActiveItem(name)}
-      className="hover:text-green cursor-pointer"
+      className="hover:text-blue-500 cursor-pointer"
     >
       {name}
     </span>
   ) : null;
 };
-// const NavItem = ({ activeItem, setActiveItem, name, route }: Props) => {
-//   const router = useRouter();
-//   return activeItem !== name ? (
-//     <Link href={route} scroll={false}>
-//       <span onClick={() => setActiveItem(name)} className="hover:text-green ">
-//         {name}
-//       </span>
-//     </Link>
-//   ) : null;
-// };
 
 export default NavItem;

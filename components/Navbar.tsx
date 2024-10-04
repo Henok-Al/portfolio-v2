@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <div className="flex flex-col">
       <div className="flex justify-between px-5 py-3 my-3">
-        <span className="text-xl font-bold border-b-4 border-green text-green md:text-2xl">
+        <span className="text-xl font-bold border-b-4 border-blue-500 text-blue-500 md:text-2xl">
           {activeItem}
         </span>
         <div className="flex space-x-5 text-lg">
