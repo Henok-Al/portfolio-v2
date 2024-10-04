@@ -3,6 +3,7 @@ import {
   AiFillLinkedin,
   AiFillTwitterCircle,
 } from "react-icons/ai";
+import { FaXTwitter } from "react-icons/fa6";
 import { GoLocation } from "react-icons/go";
 import { GiTie } from "react-icons/gi";
 import Image from "next/image";
@@ -39,17 +40,17 @@ const Sidebar = () => {
       </Link>
       {/* social icons */}
       <div className="flex items-center justify-around my-5 w-9/12 mx-auto text-blue-500 md:w-full">
-        <Link href="https://github.com/Syed-Hnktaba-Mussavi" target="_blank">
+        <Link href="https://github.com/Henok-Al" target="_blank">
           <AiFillGithub className="w-8 h-8 cursor-pointer" />
         </Link>
         <Link
-          href=" https://www.linkedin.com/in/syed-hnktaba-mussavi-19441025b/"
+          href="https://www.linkedin.com/in/henok-alemu-baaa30237/"
           target="_blank"
         >
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </Link>
-        <Link href="" target="_blank">
-          <AiFillTwitterCircle className="w-8 h-8 cursor-pointer" />
+        <Link href="https://x.com/HenokGebre70114" target="_blank">
+          <FaXTwitter className="w-8 h-8 cursor-pointer" />
         </Link>
       </div>
       {/* Address */}
@@ -61,7 +62,7 @@ const Sidebar = () => {
           <GoLocation />
           <span>A.A, Ethiopia</span>
         </div>
-        <p className="my-2 text-sm">henok.gebresenbet@gmail.com</p>
+        <p className="my-2 text-xs">henok.gebresenbet@gmail.com</p>
         <p className="my-2">+251900060965</p>
       </div>
       {/* email button */}

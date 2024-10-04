@@ -117,7 +117,7 @@ export const projects: IProject[] = [
   {
     id: 4,
     name: "AddisBlog",
-    image_path: "/addisBlog.PNG",
+    image_path: "/addis.PNG",
     deployed_url:
       "https://addis-blog-rlb1-4c0poyx08-henokals-projects.vercel.app/",
     github_url: "https://github.com/Henok-Al/AddisBlog.git",
@@ -143,6 +143,16 @@ export const projects: IProject[] = [
     deployed_url: "react-firebase-tailwind-seven.vercel.app",
     github_url: "https://github.com/Henok-Al/write-it.git",
     category: ["react"],
+    description: "It's is a simple todo app with have authentication and crud",
+    key_techs: ["React", "Tailwind"],
+  },
+  {
+    id: 6,
+    name: "Blogger",
+    image_path: "/reactBlog.PNG",
+    deployed_url: "https://react-firebase-blog-app-595df.web.app/",
+    github_url: "https://github.com/Henok-Al/Blog-App",
+    category: ["HTML&CSS"],
     description: "It's is a simple todo app with have authentication and crud",
     key_techs: ["React", "Tailwind"],
   },
