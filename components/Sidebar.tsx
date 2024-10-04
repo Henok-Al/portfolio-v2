@@ -11,6 +11,8 @@ import hnk from "public/hnk.png";
 import Link from "next/link";
 import Button from "./Button";
 import ThemeSwitcher from "./ThemeSwitcher";
+import { BsDownload } from "react-icons/bs";
+import { RiDownload2Line, RiFileDownloadFill } from "react-icons/ri";
 const Sidebar = () => {
   return (
     <div>
@@ -31,11 +33,11 @@ const Sidebar = () => {
         Web Developer
       </p>
       <Link
-        href="/cv/Hnk-resume.pdf"
+        href="/cv/HENOK-GEBRESENBET.pdf"
         className="px-2 py-1 my-3 bg-gray-200 dark:bg-dark-200 rounded-full flex items-center justify-center"
         download="Hnk-resume.pdf"
       >
-        <GiTie className="w-6 h-6" />
+        <RiDownload2Line className="w-6 h-6" />
         Download Resume
       </Link>
       {/* social icons */}

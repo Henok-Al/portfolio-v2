@@ -8,7 +8,7 @@ const About = () => {
   return (
     <div className="flex flex-col px-6 pt-1 flex-grow">
       <h5 className="my-3 font-medium">
-        My name is Henok Alemu, I'm a skilled full-stack developer with
+        My name is Henok Alemu, I&apos;m a skilled full-stack developer with
         expertise in building modern, responsive web applications. My focus is
         on React for the frontend, Node.js for the backend, and Next.js for
         server-side rendering. I enjoy creating visually appealing, functional
