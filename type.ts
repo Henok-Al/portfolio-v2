@@ -28,4 +28,7 @@ export type Category =
   | "next"
   | "Javascript"
   | "HTML&CSS"
-  | "Tailwind";
+  | "Tailwind"
+  | "Figma"
+  | "Fullstack"
+  | "Node";

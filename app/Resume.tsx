@@ -19,14 +19,14 @@ const Resume = () => {
             <h5 className="my-3 text-2xl font-bold">Education</h5>
             <div>
               <h5 className="my-2 text-xl font-bold">Computer Science</h5>
-              <p className="font-semibold">Herat University (2019 - 2023)</p>
+              <p className="font-semibold">St.Mary University (2019 - 2023)</p>
             </div>
           </motion.div>
           <div className="mb-2">
             <h5 className="my-3 text-2xl font-bold">Experience</h5>
             <div>
-              <h5 className="my-2 text-xl font-bold">Frontend Developer</h5>
-              <p className="font-semibold">Jeyhun (2022 - 2023)</p>
+              <h5 className="my-2 text-xl font-bold">Fullstack Developer</h5>
+              <p className="font-semibold">Dan Energy (2022 - 2023)</p>
             </div>
           </div>
         </div>

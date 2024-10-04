@@ -29,6 +29,9 @@ const ProjectsNavbar: FunctionComponent<{
       <NavItem value="Javascript" {...props} />
       <NavItem value="react" {...props} />
       <NavItem value="next" {...props} />
+      <NavItem value="Figma" {...props} />
+      <NavItem value="Fullstack" {...props} />
+      <NavItem value="Node" {...props} />
     </div>
   );
 };

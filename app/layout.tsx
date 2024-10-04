@@ -15,8 +15,8 @@ const kaushan = Kaushan_Script({
 });
 
 export const metadata: Metadata = {
-  title: "Mujtaba Mussavi Portfolio",
-  description: "Mujtaba Mussavi personal portfolio website",
+  title: "Henok Gebresenbet Portfolio",
+  description: "Henok Gebresenbet personal portfolio website",
 };
 
 export default function RootLayout({
@@ -31,7 +31,7 @@ export default function RootLayout({
           className={`
         ${inter.variable}
         ${kaushan.variable} 
-        font-sans bg-fixed bg-gradient-to-r from-green to-blue-400 dark:from-dark-500 dark:to-dark-700
+        font-sans bg-fixed bg-gradient-to-r #d4ebdd to-blue-400 dark:from-dark-500 dark:to-dark-700
         `}
           suppressHydrationWarning
         >

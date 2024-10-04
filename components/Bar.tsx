@@ -23,7 +23,7 @@ const Bar: FunctionComponent<{ value: ISkill }> = ({
   return (
     <div className="my-2 text-white bg-gray-300 dark:bg-dark-300 rounded-full">
       <motion.div
-        className="flex items-center rounded-full px-4 py-1 bg-gradient-to-r from-green to-blue-600"
+        className="flex items-center rounded-full px-4 py-1 bg-gradient-to-r #d4ebdd to-blue-600"
         style={{ width: bar_width }}
         variants={variants}
         initial="initial"
