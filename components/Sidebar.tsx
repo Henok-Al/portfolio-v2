@@ -30,7 +30,7 @@ const Sidebar = () => {
         className="px-2 py-1 my-3 bg-gray-200 dark:bg-dark-200
        rounded-full"
       >
-        Web Developer
+        Fullstack Developer
       </p>
       <Link
         href="/cv/HENOK-GEBRESENBET.pdf"
