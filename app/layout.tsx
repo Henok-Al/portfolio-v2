@@ -15,7 +15,7 @@ const kaushan = Kaushan_Script({
 });
 
 export const metadata: Metadata = {
-  title: "Henok Gebresenbet Portfolio",
+  title: "Henoks Portfolio",
   description: "Henok Gebresenbet personal portfolio website",
 };
 
